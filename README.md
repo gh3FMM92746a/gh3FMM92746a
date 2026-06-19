@@ -1,16 +1,7 @@
-## Hi there 👋
+# About Me 👋
 
-<!--
-**gh3FMM92746a/gh3FMM92746a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on trading and music LogicPro
-- 🌱 I’m currently learning working with AI to aid this exploration
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m exploring AI and coding to assist/refine equity and option trading
+- 🎶 Apple's Logic Pro, audio and music production are always at play as well  
